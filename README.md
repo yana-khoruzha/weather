@@ -1,3 +1,3 @@
 # weather
 
-https://yandapanda19.github.io/weather/
+https://poetic-taiyaki-21833d.netlify.app/
