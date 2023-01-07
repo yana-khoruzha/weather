@@ -44,7 +44,7 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #8db2e4;
   border-radius: 5px;
-  background-color: #e7eaf6
+  background-color: #e7eaf6;
 }
 
 .overview {
@@ -78,14 +78,17 @@ li:first-letter {
 }
 
 .row .btn {
-  background-color: #a2a8d3;;
+  background-color: #a2a8d3;
   color: #113f67;
-  
-
 }
 
 #date {
-    font-size: 24px;
-    color: #747cb8;
-    padding-bottom: 10px;
+  font-size: 24px;
+  color: #747cb8;
+  padding-bottom: 10px;
+}
+
+#forecast {
+  margin: 30px 10px 10px 10px;
+  max-width: 90%;
 }
